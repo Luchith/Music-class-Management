@@ -1,0 +1,221 @@
+.footer {
+    position: relative;
+    bottom: 10px;
+    width: 100%;
+    height: 40px;
+    background-color: #9D73DC;
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #574079;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-body {
+    background-color: rgb(223, 180, 255);
+    font-weight: 600;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tablehead,
+.table {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.container-table {
+    background-color: rgb(250, 250, 250);  
+    max-width: 100%;
+    height: 800px;
+}
+
+
+
+.imgmusic1 {
+    max-height: 250px;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.slider-image {
+    margin-top: 40px;
+    max-width: 100%;
+    max-height: 774px;
+    margin: 50px auto;
+    box-shadow: 2px 4px 8px rgba(3, 3, 3, 0.8);
+}
+
+
+.homebody {
+    background-color: rgb(255, 255, 255);
+}
+
+.pginhome {
+    margin-top: 50px;
+    margin: auto;
+    width: 1200px;
+    height: 90px;
+    text-align: center;
+   
+}
+
+.pginhome p {
+    font-style: italic;
+    font-family: Verdana, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    color: #574079;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.greet {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hovered {
+    color: #060505;
+}
+.ptest{
+    
+    display: flex;
+    margin: 20px auto;
+    width: 600px;
+    height: 200px;
+    background-color: #060505;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px rgba(3, 3, 3, 0.8);
+}
+.ptest p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    left: 5px;
+}
+
+.testimonial-section {
+    margin-top: 40px;
+}
+
+.testimonial {
+    background-color: #ffd60a;
+    width: 1000px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    margin: 20px auto;
+    box-shadow: 2px 4px 8px rgba(3, 3, 3, 0.8);
+}
+
+.testimonial h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.testimonial-content {
+    display: flex;
+    align-items: center;
+}
+
+.testimonial p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.testimonial-author {
+    font-style: italic;
+    margin: auto;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+/* TimetableComponent.css */
+
+/* TimetableComponent.css */
+
+.timetable-container {
+    max-width: 100%;
+    height: 800px;
+    color: #574079;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+  }
+  
+  .tabletime {
+    margin: auto;
+    background-color: rgb(238, 226, 246);
+    border-radius: 10px;
+    width: 1200px;
+    height: 500px;
+    border-collapse:separate;
+    box-shadow: 2px 4px 8px rgba(3, 3, 3, 0.8);
+    margin-bottom: 20%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #dec8ff;
+    color: #574079;
+  }
+  .bodytimetable{
+    background-color:rgb(244, 240, 249);
+    color:black;
+    font-size: 14px;
+    font: weight 800px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+  }
+  .timetable{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  
+  
